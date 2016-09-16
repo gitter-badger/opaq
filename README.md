@@ -1,6 +1,8 @@
 # Opaq - IoT aquarium and pond controllers for everyone
 #### Release 1.0.4
 
+[![Join the chat at https://gitter.im/opaqproject/general](https://badges.gitter.im/opaqproject/general.svg)](https://gitter.im/opaqproject/general?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Opaq Frame](/tools/images/opaq_framev103.png?raw=true "Opaq Frame")
 
 Supported features:
